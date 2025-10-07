@@ -1,2 +1,2 @@
 # TabuleiroXadrez
-tabuleiro de xadrez em python
+Tabuleiro de xadrez em python.
