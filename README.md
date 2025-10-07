@@ -1,2 +1,2 @@
-# TabuleiroXadrez
-Tabuleiro de xadrez em python.
+# ProjetoS05
+Tabuleiro de xadrez em Python
